@@ -4,7 +4,7 @@
     font-family: "Poppins", sans-serif;
 }
 .main_box {
-    background: url("photo.jpg");
+    background: url("photoconverted.webp");
     height: 100vh;
     background-size: cover;
 }
